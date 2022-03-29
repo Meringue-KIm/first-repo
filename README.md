@@ -1,5 +1,7 @@
 # first-repo
 
+-test
+
 ## Requirements(Prerequisite)
 
 - node.js(11)
